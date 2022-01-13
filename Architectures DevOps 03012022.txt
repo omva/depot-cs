@@ -1,0 +1,92 @@
+Architectures DevOps
+Présents :
+- Claude Javis OMVA		: BTS Réseaux Telecom - Licence Administration 
+- Darlan Trudel ISSANGA GAMPIKA	: Bachelor Informatique Applique : Administration réseau
+- Hericha Prince MALAMBA MOUANGA: AIS Administration Infrastructure	
+- Mehdi YOUSNADJ		: Mastrer Electronique d'instrumentation 
+- Landry Donatien KOUAYEP	: L systèmes infomatiques et réseaux - M1 MPI	 
+-Loukmane ABDOUMAYE
+Plan
+- Introduction à DevOps
+- Automatisation dans le cycle de vie d'une application
+- Architectures DevOps
+- Techniques DevOps : Docker files, Jenkins files, Jira, Travis, Kubernete
+- Supervision d’une architecture
+
+
+
+Constats :
+
+	Hard + Soft
+Hard :	Systèmes centralisés => Réseaux de PC => Cloud
+Soft :	Logiciels en commun  => Applications perso => SaaS - PaaS - IaaS
+Date :	1950							2020
+	---------------------------------------------------------->
+Nouvelles exigences pour le développement des applications : Software Development	
+						Industrialisation = Automatisation - Mécanisation
+
+Production intellectuelle : Difficile à automatiser 
+
+
+
+Cycle de vie d'une application informatique
+
+Echec dans l’atteinte des objectifs fixés
+	Objectifs visés
+	- Résultat obtenu est loin de attentes
+	Délais
+	- Retard important au niveau de la livraison 
+Délais : Ne pas arriver à livrer à temps
+
+Ecart entre les attentes de l'utilisateur (cdc) et les résultats obtenues
+	- Fonctions
+	- Performance
+
+
+Question : Pourquoi ?
+
+	Cycle de vie
+	- Définir les besoins
+	- Spécifier le système à réaliser	
+	- Concevoir le système à réaliser
+	- Réaliser : Coder - Intégrer
+	- Tester unitaires & globaux 
+	- Déployer - Livrer
+	- Exploiter 
+	- Surveiller : Performances 
+	 travail itératif répétitif
+
+Cycle en V
+
+Définition de DevOps
+	méthodologie - culture - processus - mouvement  
+
+Dev - Test - Deployement - Exploitation - Securité - Qualité - Surveillance 
+Phases de développement et de livraison-expoitation 
+Codage  Test  Integration  Déploiement  Livraison  Exploitation  Surveillance.
+CI/CD
+DevSecOps : Compétences multi-discipline
+
+
+	Client satisfait 
+			Fonctionnel 	Délai
+
+
+	Réactivité 	Communication des problèmes
+			Prise en charge rapide
+			livraison de la nouvelle version (patch)
+			exploitation 
+			Surveillance
+			<= Itération suivante  ...	
+
+	Collaboration	Outils de collaboration Ex : git - github
+	Implication
+	Communiquer	Teams 
+
+DevOps et les autres référentiels
+
+flux CI/CD
+Contiuous delivery
+Agile
+Kata improvment
+...
